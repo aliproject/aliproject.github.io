@@ -1,31 +1,30 @@
 markdown: kramdown
 url: ''
 baseurl: null
-title: Kevin Allegretti
-description: Project 1
+title: Ali Imron
+description: DATA ANALYST
 site-image: /WhatATheme/assets/images/meta.jpg
-site-keywords: 'Site, Template, Theme'
+site-keywords: 'Data Analyst, Template, Theme'
 favicon-url: null
 heroimage: http://localhost:4000/IMG-5480.jpg
-email: Kevin.Allegretti1@marist.edu
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: KevinAllegretti
-linkedin_username: thedevslot
-github_username: thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: imron9142@gmail.com
+facebook_username: kitarooooooo
+twitter_username: 
+instagram_username:
+linkedin_username: aliimron90
+github_username: aliproject
+youtube_channel_id: UC0UQoQs_hdeQh0C-WbUhb6Q
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 google-analytics: UA-163806439-1
-disqus-shortname: thedevslot
-author-name: TheDevsLot
-author-image: 'http://localhost:4000/IMG-5480.jpg'
+disqus-shortname: Ali
+author-name: Ali
+author-image: /assets/images/Ali Foto.jpg
 author-about: >-
-  I am a student at Marist College and I am 21 years old. I enjoy playing golf,
-  music producing, and coding.
-author-url: 'https://github.com/KevinAllegretti'
+  Hi, I'm Ali Imron, an aspiring data analyst with a strong desire to learn and grow, I am excited to bring my passion and dedication to the field. I am currently enrolled in Refocus, the top data analytics bootcamp in the Indonesian, where I have gained a solid foundation in tools such as Excel, SQL, Power BI, and Python. In addition to my formal education, I have also taken the initiative to continue learning and developing my skills through online courses and virtual internships. I am confident that my strong foundation and eagerness to learn will enable me to excel as a data analyst and make valuable contributions to any organization.
+author-url: 'https://github.com/aliproject'
 sass:
   sass_dir: _sass
   style: compressed
